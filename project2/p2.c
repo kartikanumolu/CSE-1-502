@@ -1,14 +1,12 @@
 #include<stdio.h>
 void main()
 {
-int i,count=0,n;
-printf("enter the value to be caluclated");
+int i,n;
+printf("enter the number);
 scanf("%d",&n);
 printf("the numbers are");
-if(i=0,i<=n,i++);
+if(i=0,i<=n,i++)
 {
-printf("%d \n",i);
-count++;
+printf("%d\n",i);
 }
 }
-
