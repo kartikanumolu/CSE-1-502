@@ -8,6 +8,7 @@ printf("the numbers are");
 if(i=0,i<=n,i++);
 {
 printf("%d \n",i);
+count++;
 }
 }
 
